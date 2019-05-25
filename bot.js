@@ -372,4 +372,4 @@ client.on('message', msg => {
    }
    });
 /////
-client.login('توكن');
+client.login('NTgxNjA2NDU1NTM5NTMxNzg2.XOksJw.nGfuiF0WMujlGU7QiF2bpaL1oRk');
